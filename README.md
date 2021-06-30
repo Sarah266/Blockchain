@@ -38,3 +38,6 @@ ArrayList에 저장된 블록을 Json 형태로 보기 위해 gson import
 import com.google.gson.GsonBuilder;
 ```
 Boolean 타입의 isChainValid() 메소드를 통해 블록체인의 무결성 검사
+
+## Result
+![blockchain_result](https://user-images.githubusercontent.com/71886913/123901151-6dce4d00-d9a5-11eb-89da-88289b51b34d.png)
